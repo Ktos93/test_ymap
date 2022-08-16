@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WzBlZAA_0x03FEEE17>
+ <staticBoundsCache type="RIOFXbA_0xD0DF1E98">
+  <cacheEntries itemType="gicyAIA_0x7B5D4A58">
+   <Item>
+    <nameHash value="585715377" />
+    <parentNameHash value="0" />
+    <contentFlags value="73" />
+    <strMinX value="1754.1731" />
+    <strMinY value="-852.2976" />
+    <strMinZ value="156.5961" />
+    <strMaxX value="1824.1731" />
+    <strMaxY value="-782.2976" />
+    <strMaxZ value="226.5961" />
+    <phyMinX value="1766.99463" />
+    <phyMinY value="-829.3718" />
+    <phyMinZ value="187.811676" />
+    <phyMaxX value="1802.04749" />
+    <phyMaxY value="-794.1315" />
+    <phyMaxZ value="198.167587" />
+    <bDynamicStreaming value="false" />
+    <bContainsBlockInfo value="false" />
+    <bIsParent value="false" />
+    <blockInfo type="oaTwWGA_0xCE90E335">
+     <flags value="0" />
+     <LRLxfBA_0x26EA1379 />
+    </blockInfo>
+   </Item>
+  </cacheEntries>
+ </mapDataCache>
+ <interiorProxyCache type="EsrBUCA_0x7BF8A210">
+  <cacheEntries itemType="mBrBxFA_0x209B042C">
+   <Item>
+    <groupId value="0" />
+    <floorId value="0" />
+    <numExitPortals value="1" />
+    <FGZZmIA_0x4E292F18 value="855142338" />
+    <icppBCA_0x314F87F8 value="585715377" />
+    <iGrgMjA_0xBEEBB085 value="1789.1731" />
+    <DuwPsLA_0xB0FC14A6 value="-817.2976" />
+    <XhjqEjA_0xA353F952 value="191.5961" />
+    <lYzaHAB_0xA311E68B value="0" />
+    <KCPZkLA_0xB0DB821E value="0" />
+    <lUPNBAA_0xCB603727 value="-0.929133" />
+    <RjQMUDA_0x8C59B91B value="0.369747" />
+    <BxZiiDA_0xC2A14462 value="1766.99463" />
+    <AvtUiNA_0xB4DB28D6 value="-829.3718" />
+    <ZGhwHMA_0xEF261D6B value="187.811676" />
+    <dgYzuJA_0xAFC76588 value="1802.04749" />
+    <jImVNPA_0xA20D4A14 value="-794.1315" />
+    <DdQVGNA_0xEB6A5CCD value="198.167587" />
+    <KAcAKQA_0x2EFA0869>mp006_moonshine01_int</KAcAKQA_0x2EFA0869>
+   </Item>
+  </cacheEntries>
+ </interiorProxyCache>
+</WzBlZAA_0x03FEEE17>
