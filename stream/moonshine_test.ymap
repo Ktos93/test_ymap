@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name>moonshine_test</name>
+ <parent />
+ <flags value="2" />
+ <contentFlags value="73" />
+ <streamingExtentsMin x="1754.1731" y="-852.2976" z="156.5961" />
+ <streamingExtentsMax x="1824.1731" y="-782.2976" z="226.5961" />
+ <entitiesExtentsMin x="1766.99463" y="-829.3718" z="187.811676" />
+ <entitiesExtentsMax x="1802.04749" y="-794.1315" z="198.167587" />
+ <entities>
+  <Item type="CMloInstanceDef">
+   <archetypeName>mp006_moonshine01_int</archetypeName>
+   <flags value="1572864" />
+   <id value="0x49DE182DDAFE7E55" />
+   <position x="1789.1731" y="-817.2976" z="191.5961" />
+   <rotation x="0" y="0" z="-0.9291326" w="0.3697468" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="35" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <powerGridId value="0" />
+   <tintValue value="0" />
+   <GtyHDFA_0x0DC5F270 value="255" />
+   <kXvVXMA_0x540CA436 value="255" />
+   <groupId>IG_ID_NONE</groupId>
+   <floorId value="0" />
+   <defaultEntitySets />
+   <numExitPortals value="1" />
+   <MLOInstflags value="0" />
+   <azxAZNA_0x15810E7F value="0" />
+  </Item>
+ </entities>
+ <containerLods />
+ <boxOccluders />
+ <occludeModels />
+ <physicsDictionaries>
+  <Item>mp006_moonshine01_int</Item>
+ </physicsDictionaries>
+ <instancedData type="rage__fwInstancedMapData">
+  <ImapLink />
+  <PropInstanceList />
+  <GrassInstanceList />
+ </instancedData>
+ <timeCycleModifiers />
+ <awOyxCA_0x8471928B />
+ <dakdTAA_0x4D4A0635 />
+ <carGenerators />
+ <LODLightsSOA type="CLODLight">
+  <direction />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+  <XVPnEEA_0xFFD167D6 />
+ </LODLightsSOA>
+ <DistantLODLightsSOA type="CDistantLODLight">
+  <position />
+  <IyySyoA_0x94720DEC />
+  <intensity />
+  <numStreetLights value="0" />
+  <category value="0" />
+  <powerGridId />
+  <hash />
+ </DistantLODLightsSOA>
+ <block type="CBlockDesc">
+  <version value="0" />
+  <flags value="0" />
+  <name />
+  <exportedBy />
+  <owner />
+  <time />
+ </block>
+</CMapData>

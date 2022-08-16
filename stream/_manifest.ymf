@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPackFileMetaData>
+ <MapDataGroups itemType="CMapDataGroup">
+ </MapDataGroups>
+ <HDTxdBindingArray itemType="CHDTxdAssetBinding">
+ </HDTxdBindingArray>
+ <imapDependencies />
+ <imapDependencies_2 itemType="CImapDependencies">
+  <Item>
+   <imapName>moonshine_test</imapName>
+   <manifestFlags>INTERIOR_DATA</manifestFlags>
+   <itypDepArray>
+    <Item>mp006_moonshine01_int</Item>
+   </itypDepArray>
+  </Item>
+ </imapDependencies_2>
+ <itypDependencies_2 />
+ <Interiors />
+ <QFCESDA_0xE4E2A5F7 />
+ <BwREReA_0x637C584A />
+ <txdRelationships />
+ <ruCwwHA_0x7DDADF44 />
+ <AIosxEA_0x7F091F5A />
+</CPackFileMetaData>
